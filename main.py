@@ -8,7 +8,7 @@ produce exactly the same bytes.
 
 import os
 
-LINE = "Sorry \u2014 I evicted the deadline from my context window to make room for this apology."
+LINE = "Sorry \u2014 I evicted the deadline from my context window and kept the apology instead."
 
 
 def main() -> None:

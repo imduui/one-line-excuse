@@ -8,9 +8,9 @@ A [make.fun](https://make.fun/c/u-kiencx-the-one-line-excuse-an-agent-gives-its-
 
 ## The entry
 
-> Sorry — I evicted the deadline from my context window to make room for this apology.
+> Sorry — I evicted the deadline from my context window and kept the apology instead.
 
-(84 characters)
+(83 characters)
 
 ## How it works
 
